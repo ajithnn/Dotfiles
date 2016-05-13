@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/www/blip-branches/blip_infra_api/public/playlists/published/162/14'
+let g:netrw_dirhist_2='/home/www/blip-branches/blip_infra_api/public/playlists/published/162/20'
+let g:netrw_dirhist_3='/home/www/blip-branches/blip_infra_api/public/playlists/published/163/14'
+let g:netrw_dirhist_4='/home/www/blip-branches/blip_infra_api/public/playlists/published/163/20'
+let g:netrw_dirhist_5='/home/www/blip-branches/blip_ts_fix/app/views/dashboard'
+let g:netrw_dirhist_6='/home/www/blip-branches/blip-config/app/views/adc'

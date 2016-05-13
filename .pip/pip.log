@@ -1,0 +1,701 @@
+------------------------------------------------------------
+/usr/bin/pip run on Mon Jan 25 12:04:37 2016
+Downloading/unpacking distribute
+  Getting page http://pypi.python.org/simple/distribute
+  URLs to search for versions for distribute:
+  * http://pypi.python.org/simple/distribute/
+  Getting page http://pypi.python.org/simple/distribute/
+  Analyzing links from page https://pypi.python.org/simple/distribute/
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.1.tar.gz#md5=5fb8cdfe8dc70485aa1d00a7bbb220fc (from https://pypi.python.org/simple/distribute/), version: 0.6.1
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.1.zip#md5=c25c33e733e0a2159fcf102ac8ebcba6 (from https://pypi.python.org/simple/distribute/), version: 0.6.1
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.10.tar.gz#md5=0e2c14f2ec152f6454297870fc1cf499 (from https://pypi.python.org/simple/distribute/), version: 0.6.10
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.10.zip#md5=1fa1c316ad8f73f0620a64cf03297c2a (from https://pypi.python.org/simple/distribute/), version: 0.6.10
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.11.tar.gz#md5=6ac0431bce33d0e67b23029064ee3446 (from https://pypi.python.org/simple/distribute/), version: 0.6.11
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.11.zip#md5=a0b115eff03e2086e26a9361c370a98e (from https://pypi.python.org/simple/distribute/), version: 0.6.11
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.12.tar.gz#md5=d4713d07bccd48892e455fe30230f8bc (from https://pypi.python.org/simple/distribute/), version: 0.6.12
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.12.zip#md5=97186a81c6ed32f8a4c63dde930d9222 (from https://pypi.python.org/simple/distribute/), version: 0.6.12
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.13.tar.gz#md5=e41f26aeb1f24abcc89382d4ff6881bd (from https://pypi.python.org/simple/distribute/), version: 0.6.13
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.13.zip#md5=3b0098545f556edc94cf69dc1da3d2ce (from https://pypi.python.org/simple/distribute/), version: 0.6.13
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.14.tar.gz#md5=83ada58a83d99b28c806703597323b80 (from https://pypi.python.org/simple/distribute/), version: 0.6.14
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.14.zip#md5=38282c754d136a66bfdad3932f3ed33a (from https://pypi.python.org/simple/distribute/), version: 0.6.14
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.15.tar.gz#md5=8a5c36afe934ef90ce2da15a1c557128 (from https://pypi.python.org/simple/distribute/), version: 0.6.15
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.15.zip#md5=86ca2e0a13621a9b742246b2509602a2 (from https://pypi.python.org/simple/distribute/), version: 0.6.15
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.16.tar.gz#md5=c650a6bd418bb781f8dc90c78f36967a (from https://pypi.python.org/simple/distribute/), version: 0.6.16
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.16.zip#md5=f1a91231991e26364fd3fb7d950c65c5 (from https://pypi.python.org/simple/distribute/), version: 0.6.16
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.17.tar.gz#md5=5e9c933b84ecf1488d3a8a00ae11e82d (from https://pypi.python.org/simple/distribute/), version: 0.6.17
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.17.zip#md5=b0e6bad948b389ac1bc8cdcb1960fea5 (from https://pypi.python.org/simple/distribute/), version: 0.6.17
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.18.tar.gz#md5=58ab2e41e0604be84fbfb06c46bd70e8 (from https://pypi.python.org/simple/distribute/), version: 0.6.18
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.18.zip#md5=734f016b260855489532745f72b00316 (from https://pypi.python.org/simple/distribute/), version: 0.6.18
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.19.tar.gz#md5=21e7a442c4d8f0cb0223f2ed5e4569ad (from https://pypi.python.org/simple/distribute/), version: 0.6.19
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.19.zip#md5=6236355ecade133a8def830f579d4ef6 (from https://pypi.python.org/simple/distribute/), version: 0.6.19
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.2.tar.gz#md5=b95ed5d73a9a0e316de5a702efcd055f (from https://pypi.python.org/simple/distribute/), version: 0.6.2
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.2.zip#md5=75b312e41e179b70bb30296febe5010e (from https://pypi.python.org/simple/distribute/), version: 0.6.2
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.20.tar.gz#md5=1909dc5bbb89793860ff9a2a23457c64 (from https://pypi.python.org/simple/distribute/), version: 0.6.20
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.20.zip#md5=026654e2620d213f66b24324ec2d8590 (from https://pypi.python.org/simple/distribute/), version: 0.6.20
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.21.tar.gz#md5=f783444754861f9b33e9f4083bd97b60 (from https://pypi.python.org/simple/distribute/), version: 0.6.21
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.21.zip#md5=320dc5fd46fae3ece7555a0e6550edff (from https://pypi.python.org/simple/distribute/), version: 0.6.21
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.24.tar.gz#md5=17722b22141aba8235787f79800cc452 (from https://pypi.python.org/simple/distribute/), version: 0.6.24
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.24.zip#md5=d221d832a6504a263e3b392b3c4a09dd (from https://pypi.python.org/simple/distribute/), version: 0.6.24
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.25.tar.gz#md5=a690874b9964d958a3200485eb827b1d (from https://pypi.python.org/simple/distribute/), version: 0.6.25
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.25.zip#md5=ed5e0c4942f828fbd00790894756a555 (from https://pypi.python.org/simple/distribute/), version: 0.6.25
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.26.tar.gz#md5=841f4262a70107f85260362f5def8206 (from https://pypi.python.org/simple/distribute/), version: 0.6.26
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.26.zip#md5=399d086acc01d78a59537dc39a4da119 (from https://pypi.python.org/simple/distribute/), version: 0.6.26
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.27.tar.gz#md5=ecd75ea629fee6d59d26f88c39b2d291 (from https://pypi.python.org/simple/distribute/), version: 0.6.27
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.27.zip#md5=5dc46141f05eff0d85e46252028392fe (from https://pypi.python.org/simple/distribute/), version: 0.6.27
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.28.tar.gz#md5=b400b532e33f78551e6847c1f5965e56 (from https://pypi.python.org/simple/distribute/), version: 0.6.28
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.28.zip#md5=63e53db83e439afe3e5ee07816fc2f6a (from https://pypi.python.org/simple/distribute/), version: 0.6.28
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.29.tar.gz#md5=1aad767bfca8bebaccafee25f85696cf (from https://pypi.python.org/simple/distribute/), version: 0.6.29
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.29.zip#md5=5a00307a5776cbc80a8d459a1b8f0c0f (from https://pypi.python.org/simple/distribute/), version: 0.6.29
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.3.tar.gz#md5=9fee15948c9b508102b26d49653ebbec (from https://pypi.python.org/simple/distribute/), version: 0.6.3
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.3.zip#md5=f47d015f0a675158fa6cec3c29174cbb (from https://pypi.python.org/simple/distribute/), version: 0.6.3
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.30.tar.gz#md5=d239a2c7d40e126274dab3e2aa89d591 (from https://pypi.python.org/simple/distribute/), version: 0.6.30
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.30.zip#md5=b966ddad57596da71e580f115343f05f (from https://pypi.python.org/simple/distribute/), version: 0.6.30
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.31.tar.gz#md5=71e96d533b3b9041fcc6a9d9da34a8f4 (from https://pypi.python.org/simple/distribute/), version: 0.6.31
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.31.zip#md5=419e9c2108f2e22372a3358806328419 (from https://pypi.python.org/simple/distribute/), version: 0.6.31
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.32.tar.gz#md5=acb7a2da81e3612bfb1608abe4f0e568 (from https://pypi.python.org/simple/distribute/), version: 0.6.32
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.32.zip#md5=e3d89425541c5e9a1018a4df04351685 (from https://pypi.python.org/simple/distribute/), version: 0.6.32
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.33.tar.gz#md5=9bc1cf2688590ffc1e20fd153babf239 (from https://pypi.python.org/simple/distribute/), version: 0.6.33
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.33.zip#md5=cf55172e00fc2e080646fed166551d68 (from https://pypi.python.org/simple/distribute/), version: 0.6.33
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.34.tar.gz#md5=4576ab843a6db5100fb22a72deadf56d (from https://pypi.python.org/simple/distribute/), version: 0.6.34
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.34.zip#md5=b9729f289723f8d100e599769a5fc034 (from https://pypi.python.org/simple/distribute/), version: 0.6.34
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.35.tar.gz#md5=e55298c7e3a233df1a47a4881a0c9800 (from https://pypi.python.org/simple/distribute/), version: 0.6.35
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.35.zip#md5=ff7404870d66b74af01bfde8f182f045 (from https://pypi.python.org/simple/distribute/), version: 0.6.35
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.36.tar.gz#md5=a923385de72dcdca68cd4ac2b9dc1148 (from https://pypi.python.org/simple/distribute/), version: 0.6.36
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.36.zip#md5=bae51e44b82e7d9eca568caaaa997414 (from https://pypi.python.org/simple/distribute/), version: 0.6.36
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.37.tar.gz#md5=be693b2b1888f2eae639dd0becfb2e84 (from https://pypi.python.org/simple/distribute/), version: 0.6.37
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.37.zip#md5=80981f866b8ec1d751fb3284af8afb81 (from https://pypi.python.org/simple/distribute/), version: 0.6.37
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.38.tar.gz#md5=a0bc8fdb8b7b36234dcb1ff3d1fc702d (from https://pypi.python.org/simple/distribute/), version: 0.6.38
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.38.zip#md5=c0ef20833051c0b7e30bbc032960af14 (from https://pypi.python.org/simple/distribute/), version: 0.6.38
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.39.tar.gz#md5=b7569b356600d3347828998d55e76fea (from https://pypi.python.org/simple/distribute/), version: 0.6.39
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.39.zip#md5=621f7de8b41ce7a370bc7e996779f901 (from https://pypi.python.org/simple/distribute/), version: 0.6.39
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.4.tar.gz#md5=d3f8a22488a798fafc151b906b9bde1c (from https://pypi.python.org/simple/distribute/), version: 0.6.4
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.4.zip#md5=5e70cd25c41c9be559d887731020c2be (from https://pypi.python.org/simple/distribute/), version: 0.6.4
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.40.tar.gz#md5=7a2dd4033999af22fe9591fa84f3e599 (from https://pypi.python.org/simple/distribute/), version: 0.6.40
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.40.zip#md5=254bc9516b8ac4b8c50b32b46d639be0 (from https://pypi.python.org/simple/distribute/), version: 0.6.40
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.41.tar.gz#md5=a27bb04f85fd966a0b46b616dfe8b472 (from https://pypi.python.org/simple/distribute/), version: 0.6.41
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.41.zip#md5=d2c3de0d64ab9c36047d3cd095b6ba81 (from https://pypi.python.org/simple/distribute/), version: 0.6.41
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.42.tar.gz#md5=53642a6e4a08d99309f1f695b02386bc (from https://pypi.python.org/simple/distribute/), version: 0.6.42
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.42.zip#md5=d0424741f5aceea13a4e2d11fbeff05d (from https://pypi.python.org/simple/distribute/), version: 0.6.42
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.43.tar.gz#md5=a216a46dc9bec5835fa3c6041f1c77c2 (from https://pypi.python.org/simple/distribute/), version: 0.6.43
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.43.zip#md5=b1451c8c9671fa1751bc4dcefd7a8a65 (from https://pypi.python.org/simple/distribute/), version: 0.6.43
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.44.tar.gz#md5=3abed5dfa036e6d8bfdbb4ccd272d553 (from https://pypi.python.org/simple/distribute/), version: 0.6.44
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.44.zip#md5=0ffc600410808e907b57744ad87129fa (from https://pypi.python.org/simple/distribute/), version: 0.6.44
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.45.tar.gz#md5=8953f2c07e6700dabf2ec150129b8c31 (from https://pypi.python.org/simple/distribute/), version: 0.6.45
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.45.zip#md5=f1d411325db169b5c47b0c6f285c758d (from https://pypi.python.org/simple/distribute/), version: 0.6.45
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.46.tar.gz#md5=73d21ec34a683af697ceeb5199bf4bef (from https://pypi.python.org/simple/distribute/), version: 0.6.46
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.46.zip#md5=d9586bbfc029154d4cc1e087d2de2bdd (from https://pypi.python.org/simple/distribute/), version: 0.6.46
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.47.tar.gz#md5=bfa191de8c0578eb65212436b73f72c2 (from https://pypi.python.org/simple/distribute/), version: 0.6.47
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.47.zip#md5=554f9aa8efe56f1d94a607c0ff27d74e (from https://pypi.python.org/simple/distribute/), version: 0.6.47
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.48.tar.gz#md5=8043b862d69b7c553c8899276babd602 (from https://pypi.python.org/simple/distribute/), version: 0.6.48
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.48.zip#md5=1da627bccbb1b51b1aee94b3e64de341 (from https://pypi.python.org/simple/distribute/), version: 0.6.48
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.49.tar.gz#md5=89e68df89faf1966bcbd99a0033fbf8e (from https://pypi.python.org/simple/distribute/), version: 0.6.49
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.49.zip#md5=2b65b6881f064e9f54d427c8e1f555e7 (from https://pypi.python.org/simple/distribute/), version: 0.6.49
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.5.tar.gz#md5=2545856b22598749581ef8647d352e58 (from https://pypi.python.org/simple/distribute/), version: 0.6.5
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.5.zip#md5=be0dad9bd3619dbe818a70e786f41cdc (from https://pypi.python.org/simple/distribute/), version: 0.6.5
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.6.tar.gz#md5=b7ba298108026fd71f87874be5256d20 (from https://pypi.python.org/simple/distribute/), version: 0.6.6
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.6.zip#md5=e10dbc789c34d89e1d57901915e43645 (from https://pypi.python.org/simple/distribute/), version: 0.6.6
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.7.tar.gz#md5=32f1e942d0186605756e386171c92429 (from https://pypi.python.org/simple/distribute/), version: 0.6.7
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.7.zip#md5=df9da54c7515f37bbb988c0d74d3cdf2 (from https://pypi.python.org/simple/distribute/), version: 0.6.7
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.8.tar.gz#md5=f8caf091fbc2d581274bca0c87ec5ea8 (from https://pypi.python.org/simple/distribute/), version: 0.6.8
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.8.zip#md5=8da017dc10e48e51310c235f5584b126 (from https://pypi.python.org/simple/distribute/), version: 0.6.8
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.9.tar.gz#md5=2e8bea1ef6f7b972387715cc465d56a9 (from https://pypi.python.org/simple/distribute/), version: 0.6.9
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.9.zip#md5=ef70bb0efc48cb1d6689cf32e0312c4c (from https://pypi.python.org/simple/distribute/), version: 0.6.9
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.tar.gz#md5=49b936db5d9d7fd87a5eac2d55964134 (from https://pypi.python.org/simple/distribute/), version: 0.6
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.6.zip#md5=ad25841e6df0c45208a1b4ffc13cac61 (from https://pypi.python.org/simple/distribute/), version: 0.6
+    Found link https://pypi.python.org/packages/source/d/distribute/distribute-0.7.3.zip#md5=c6c59594a7b180af57af8a0cc0cf5b4a (from https://pypi.python.org/simple/distribute/), version: 0.7.3
+  Using version 0.7.3 (newest of versions: 0.7.3, 0.6.49, 0.6.49, 0.6.48, 0.6.48, 0.6.47, 0.6.47, 0.6.46, 0.6.46, 0.6.45, 0.6.45, 0.6.44, 0.6.44, 0.6.43, 0.6.43, 0.6.42, 0.6.42, 0.6.41, 0.6.41, 0.6.40, 0.6.40, 0.6.39, 0.6.39, 0.6.38, 0.6.38, 0.6.37, 0.6.37, 0.6.36, 0.6.36, 0.6.35, 0.6.35, 0.6.34, 0.6.34, 0.6.33, 0.6.33, 0.6.32, 0.6.32, 0.6.31, 0.6.31, 0.6.30, 0.6.30, 0.6.29, 0.6.29, 0.6.28, 0.6.28, 0.6.27, 0.6.27, 0.6.26, 0.6.26, 0.6.25, 0.6.25, 0.6.24, 0.6.24, 0.6.21, 0.6.21, 0.6.20, 0.6.20, 0.6.19, 0.6.19, 0.6.18, 0.6.18, 0.6.17, 0.6.17, 0.6.16, 0.6.16, 0.6.15, 0.6.15, 0.6.14, 0.6.14, 0.6.13, 0.6.13, 0.6.12, 0.6.12, 0.6.11, 0.6.11, 0.6.10, 0.6.10, 0.6.9, 0.6.9, 0.6.8, 0.6.8, 0.6.7, 0.6.7, 0.6.6, 0.6.6, 0.6.5, 0.6.5, 0.6.4, 0.6.4, 0.6.3, 0.6.3, 0.6.2, 0.6.2, 0.6.1, 0.6.1, 0.6, 0.6)
+  Downloading from URL https://pypi.python.org/packages/source/d/distribute/distribute-0.7.3.zip#md5=c6c59594a7b180af57af8a0cc0cf5b4a (from https://pypi.python.org/simple/distribute/)
+  Running setup.py egg_info for package distribute
+    running egg_info
+    creating pip-egg-info/distribute.egg-info
+    writing requirements to pip-egg-info/distribute.egg-info/requires.txt
+    writing pip-egg-info/distribute.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/distribute.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/distribute.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/distribute.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    
+    reading manifest file 'pip-egg-info/distribute.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/distribute.egg-info/SOURCES.txt'
+Downloading/unpacking setuptools>=0.7 (from distribute)
+  Getting page http://pypi.python.org/simple/setuptools
+  URLs to search for versions for setuptools>=0.7 (from distribute):
+  * http://pypi.python.org/simple/setuptools/
+  Getting page http://pypi.python.org/simple/setuptools/
+  Analyzing links from page https://pypi.python.org/simple/setuptools/
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6b1-py2.3.egg#md5=8822caf901250d848b996b7f25c6e6ca (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6b2-py2.3.egg#md5=5657759d8a6d8fc44070a9d07272d99b (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6b3-py2.3.egg#md5=bb31c0fc7399a63579975cad9f5a0618 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6b4-py2.3.egg#md5=62045a24ed4e1ebc77fe039aa4e6f7e5 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c1-py2.3.egg#md5=b3f2b5539d65cb7f74ad79127f1a908c (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c10-py2.3.egg#md5=ce1e2ab5d3a0256456d9fc13800a7090 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c10.win32-py2.3.exe#md5=d415be7db03e5c60bf95b5efd7b34142 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c11-py2.3.egg#md5=2baeac6e13d414a9d28e7ba5b5a596de (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c11.win32-py2.3.exe#md5=ade86d123f1b0a259f006c860d9dc48e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c2-py2.3.egg#md5=f0064bf6aa2b7d0f3ba0b43f20817c27 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c3-py2.3.egg#md5=f181fa125dfe85a259c9cd6f1d7b78fa (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c4-py2.3.egg#md5=b0b9131acab32022bfac7f44c5d7971f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c4.win32-py2.3.exe#md5=97700ae3fd33b4cdfcad0c50b6ced585 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c5-py2.3.egg#md5=ee9fd80965da04f2f3e6b3576e9d8167 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c5.win32-py2.3.exe#md5=c63116466c40fd38921c9e73a071461c (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c6-py2.3.egg#md5=35686b78116a668847237b69d549ec20 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c6.win32-py2.3.exe#md5=1fa81b339055e5f0607c723e149e989d (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c7-py2.3.egg#md5=209fdf9adc3a615e5115b725658e13e2 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c7.win32-py2.3.exe#md5=6bd6f02383edc580a311a070e8d360f5 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c8-py2.3.egg#md5=50759d29b349db8cfd807ba8303f1902 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c8.win32-py2.3.exe#md5=4965614c7210a328b0bc2c9cfde8fc4f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c9-py2.3.egg#md5=a83c4020414807b496e4cfbe08507c03 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/s/setuptools/setuptools-0.6c9.win32-py2.3.exe#md5=ea8d375afcf6187b7f6b4b4546755adf (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6b1-py2.4.egg#md5=b79a8a403e4502fbb85ee3f1941735cb (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6b2-py2.4.egg#md5=4996a8d169d2be661fa32a6e52e4f82a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6b3-py2.4.egg#md5=38a8c6b3d6ecd22247f179f7da669fac (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6b4-py2.4.egg#md5=4cb2a185d228dacffb2d17f103b3b1c4 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c1-py2.4.egg#md5=b45adeda0667d2d2ffe14009364f2a4b (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c10-py2.4.egg#md5=57d6d9d6e9b80772c59a53a8433a5dd4 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c10.win32-py2.4.exe#md5=5eba6bd57376f385b9a23fb3d5e671ab (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c11-py2.4.egg#md5=bd639f9b0eac4c42497034dec2ec0c2b (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c11.win32-py2.4.exe#md5=3b1f36f534b475724104dc08008206dd (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c2-py2.4.egg#md5=616192eec35f47e8ea16cd6a122b7277 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c3-py2.4.egg#md5=e0ed74682c998bfb73bf803a50e7b71e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c4-py2.4.egg#md5=2a1f9656d4fbf3c97bf946c0a124e6e2 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c4.win32-py2.4.exe#md5=122e760e30fc65bb83ae8dde65d24246 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c5-py2.4.egg#md5=afe2adf1c01701ee841761f5bcd8aa64 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c5.win32-py2.4.exe#md5=906d91cff0f5d183a6a500957c33bea3 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c6-py2.4.egg#md5=3c56af57be3225019260a644430065ab (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c6.win32-py2.4.exe#md5=ccf2b51e22bad715b6a60c80872bcbee (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c7-py2.4.egg#md5=5a8f954807d46a0fb67cf1f26c55a82e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c7.win32-py2.4.exe#md5=8109dbab4d86a24e8b5ef1881c9fcbb1 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c8-py2.4.egg#md5=cba38d74f7d483c06e9daa6070cce6de (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c8.win32-py2.4.exe#md5=392b5d00243a226cbebc70d170d32e2e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c9-py2.4.egg#md5=260a2be2e5388d66bdaee06abec6342a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/setuptools/setuptools-0.6c9.win32-py2.4.exe#md5=263fe43537b9a766d335a169b819deb8 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c10-py2.5.egg#md5=de46ac8b1c97c895572e5e8596aeb8c7 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c10.win32-py2.5.exe#md5=a6f8f97232adefc701f7a1a14b733891 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c11-py2.5.egg#md5=64c94f3bf7a72a13ec83e0b24f2749b2 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c11.win32-py2.5.exe#md5=cb0cd7b844bed5106aeb0d4583848b1f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c3-py2.5.egg#md5=abef16fdd61955514841c7c6bd98965e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c4-py2.5.egg#md5=8f5a052e32cdb9c72bcf4b5526f28afc (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c5-py2.5.egg#md5=a8d3f61494ccaa8714dfed37bccd3d5d (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c5.win32-py2.5.exe#md5=7918167952ebc536dd00b8868ff5635f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c6-py2.5.egg#md5=b2f8a7520709a5b34f80946de5f02f53 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c6.win32-py2.5.exe#md5=36309d6541a436fead971092aa42d1af (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c7-py2.5.egg#md5=45d2ad28f9750e7434111fde831e8372 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c7.win32-py2.5.exe#md5=395a81d709766f3a0d6084964cb98b5a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c8-py2.5.egg#md5=1721747ee329dc150590a58b3e1ac95b (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c8.win32-py2.5.exe#md5=963088fdb1c7332b1cbd4885876e077a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c9-py2.5.egg#md5=fe67c3e5a17b12c0e7c541b7ea43a8e6 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/setuptools/setuptools-0.6c9.win32-py2.5.exe#md5=602d06054ec1165e995ae54ac30884d7 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.6/s/setuptools/setuptools-0.6c10-py2.6.egg#md5=58ea40aef06da02ce641495523a0b7f5 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/s/setuptools/setuptools-0.6c10.win32-py2.6.exe#md5=9b56511796a4bb3b8876321eb22d18c1 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.6/s/setuptools/setuptools-0.6c11-py2.6.egg#md5=bfa92100bd772d5a213eedd356d64086 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/s/setuptools/setuptools-0.6c11.win32-py2.6.exe#md5=1509752c3c2e64b5d0f9589aafe053dc (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.6/s/setuptools/setuptools-0.6c9-py2.6.egg#md5=ca37b1ff16fa2ede6e19383e7b59245a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11-py2.7.egg#md5=fe1f997bc722265116870bc7919059ea (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11.win32-py2.7.exe#md5=57e1e64f6b7c7f1d2eddfc9746bbaf20 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-0.9.8-py2.py3-none-any.whl#md5=dacbf8eb5a5097f00c282576b57ea51b (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-0.9.8-py33-none-any.whl#md5=68538c63e383b89a036f5d57f01e884f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-1.1.6-py2.py3-none-any.whl#md5=0adddedb4a794717075e5430cd10179d (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-1.2-py2.py3-none-any.whl#md5=9c368cd82d8dca7c38041c6cec5c72cd (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-1.3-py2.py3-none-any.whl#md5=5bc225fecb84a0e9156fc509bfb52e0b (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-1.3.1-py2.py3-none-any.whl#md5=e39a9b0e37005b4cd5e0d328cb88fd77 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-1.3.2-py2.py3-none-any.whl#md5=caffac70774429282571e9fe90b4ff16 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-1.4-py2.py3-none-any.whl#md5=4161f1fe6ad6473cc688a3acf8a63121 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-1.4.1-py2.py3-none-any.whl#md5=1d5b691eb94eca12247402cf3c34aa2a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-1.4.2-py2.py3-none-any.whl#md5=f2e5162c46f778144aeeb0fe44e4f79e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-2.0-py2.py3-none-any.whl#md5=c94e06b13795d12bc1febe5c9c8e8e52 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/s/setuptools/setuptools-2.1.2-py2.py3-none-any.whl#md5=b2b240c74a55ba6437a97cf56a03db8e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-10.0-py2.py3-none-any.whl#md5=2078a8d3ffaf99328a907f859a9becb0 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-10.0.1-py2.py3-none-any.whl#md5=f9de5a5161ae387038139310727ed775 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-10.1-py2.py3-none-any.whl#md5=3fd1e47404f868c01cf79b5904aee614 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-10.2-py2.py3-none-any.whl#md5=f71c9d288faa719111d326bafa0cd8ba (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-10.2.1-py2.py3-none-any.whl#md5=0b7f16f784f73f79ba5bb6d8e0c9edc3 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-11.0-py2.py3-none-any.whl#md5=fc28bd9510250c06ffc98a228992e9f7 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-11.1-py2.py3-none-any.whl#md5=bae9b8f2a890a82fbd7f7d1e5e8abe3c (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-11.2-py2.py3-none-any.whl#md5=9acbe1bcb5dc098a8d749b469d5aef8e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-11.3-py2.py3-none-any.whl#md5=465e4bed7d5461038def6d54119678ad (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-11.3.1-py2.py3-none-any.whl#md5=59cd761f2f2b926313bed7f83337e4d7 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.0-py2.py3-none-any.whl#md5=055c9edda9deecbedf5a9daf2f247df6 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.0.1-py2.py3-none-any.whl#md5=ef4ffca8e29466006364e1a2253eda00 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.0.2-py2.py3-none-any.whl#md5=323fa0b18c32e7bc9cf0345aae61246e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.0.3-py2.py3-none-any.whl#md5=bf6f7871872d9cf48edd1b826ce4db68 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.0.4-py2.py3-none-any.whl#md5=062ffc9b0b1b4b4ff1ade2fd1d6664f8 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.0.5-py2.py3-none-any.whl#md5=87647eb8380c5da10e63fdd7274d8b49 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.1-py2.py3-none-any.whl#md5=7981d5d372e9e7711a60de17e5ebf078 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.2-py2.py3-none-any.whl#md5=726d569f5a93846d27d1d13c2bd06f01 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.3-py2.py3-none-any.whl#md5=31f51a38497a70efadf5ce8d4c2211ab (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-12.4-py2.py3-none-any.whl#md5=f61c949ca90590b111f1dad972255a0a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-13.0.1-py2.py3-none-any.whl#md5=3d0a8bea903661e95cefd1eb02ed33ca (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-13.0.2-py2.py3-none-any.whl#md5=32a347faac445139697921d383313237 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-14.0-py2.py3-none-any.whl#md5=caa7e1c8b83f4134834a082414880f96 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-14.1-py2.py3-none-any.whl#md5=e875c0ab9acb481f8f8fe2d45e8b4056 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-14.1.1-py2.py3-none-any.whl#md5=633f6355c259bf99c5de1c7ae3e939ff (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-14.2-py2.py3-none-any.whl#md5=fe0b5218b2294555373d41792b417535 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-14.3-py2.py3-none-any.whl#md5=fc7acea179a69c7d9bf8b854fe44b029 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-14.3.1-py2.py3-none-any.whl#md5=a354fbc488780c81159ef6ef40206743 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-15.0-py2.py3-none-any.whl#md5=80570f4e94f9c05a35241a53c38d3540 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-15.1-py2.py3-none-any.whl#md5=b9eba737aec42a67c6e48ec42dacc07f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-15.2-py2.py3-none-any.whl#md5=fc72e6c9622b25026fb8984a156b8719 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-16.0-py2.py3-none-any.whl#md5=4f2648ad4615436bc6fadd82952d0cf2 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-17.0-py2.py3-none-any.whl#md5=264df53e95bbc5be8f572c35b315d707 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-17.1-py2.py3-none-any.whl#md5=7fb4246e8ef72f6a5a8100991045856f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-17.1.1-py2.py3-none-any.whl#md5=8a540687a8341088e2b280ad2ceb4e5b (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-18.0-py2.py3-none-any.whl#md5=c03b881f30f8d9d7a9dd56752404c69d (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-18.0.1-py2.py3-none-any.whl#md5=19c0c145c3d2a615b0a33f0aeddd1c02 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-18.1-py2.py3-none-any.whl#md5=b6c8eae6b3636dd952e71135805ee156 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-18.2-py2.py3-none-any.whl#md5=2b79c46f12ca11fca3720dcf0f327086 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-18.3-py2.py3-none-any.whl#md5=cc002bc40192ec3d26b888ccf9cf1693 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-18.3.1-py2.py3-none-any.whl#md5=a21a4d02d0bab2eac499cca72faeb076 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-18.3.1-py3.4.egg#md5=a7fa2faf54786ab139ed7a02b2bce06a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-18.3.2-py2.py3-none-any.whl#md5=58c1e15fe0c124ab0880a2691f232434 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-2.0.1-py2.py3-none-any.whl#md5=d27dfc3673a8e26d8584496456a31d3b (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-2.0.2-py2.py3-none-any.whl#md5=ca1a715dcb0b5da0b13c925f3ba21311 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-2.1-py2.py3-none-any.whl#md5=be57ff5b99882a20f5987cacc0e72893 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-2.2-py2.py3-none-any.whl#md5=3b7d84f496aed8c07b91efba4aa197a4 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.1-py2.py3-none-any.whl#md5=7c6b6cf34fe688d8bd19b5c5d21cd3d7 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.2-py2.py3-none-any.whl#md5=909ab4682cf14408aac5e44dee228e89 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.3-py2.py3-none-any.whl#md5=fa55df9cab63a418d155a8b97ef7426e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.4-py2.py3-none-any.whl#md5=f7d7da9c813517f0ef5e81372c96313f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.4.1-py2.py3-none-any.whl#md5=d81e2a4dc98077178c443aaaca42b96a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.4.2-py2.py3-none-any.whl#md5=b9b08680d1c6436d06e89ec5c0796bc6 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.4.3-py2.py3-none-any.whl#md5=5a5c379df09168f1f569b54c19c9eee5 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.4.4-py2.py3-none-any.whl#md5=46284205a95cf3f9e132bbfe569e1b9d (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.5-py2.py3-none-any.whl#md5=442bff90cdc52f81e824b2228beebce7 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.5.1-py2.py3-none-any.whl#md5=2b7c2a0882249b0ff2972e6fe8d14b3e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.5.2-py2.py3-none-any.whl#md5=2106408aec395c1d12fc0eab1ea5db25 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.6-py2.py3-none-any.whl#md5=d1fa85de7d66b5c19095ce6ee474c409 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.7-py2.py3-none-any.whl#md5=01e26fd065917ac0c289b849798d05f9 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.7.1-py2.py3-none-any.whl#md5=70c2ccfb48b430214f05013027e4fc6f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.8-py2.py3-none-any.whl#md5=512f0ae543e2b334f39071fe3eb2ea6f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-3.8.1-py2.py3-none-any.whl#md5=e1e53d6a5642ada305a6b746059c6a68 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.0-py2.py3-none-any.whl#md5=20b8951ca53dcec2008e1e55e60697ca (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.0.1-py2.py3-none-any.whl#md5=836f5ba40098287028ccccdc0d0daa71 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.0.2-py2.py3-none-any.whl#md5=4ab5a379edc4f4f077d9d783357dc0f7 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.1-py2.py3-none-any.whl#md5=b45ddc4859f69e1e13c076e3fd9fcec2 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.2-py2.py3-none-any.whl#md5=f13ba3b8c8ad590735cf3345ac057ccd (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.3-py2.py3-none-any.whl#md5=bc226173e1afd0b446a3ef3ea416848d (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.4-py2.py3-none-any.whl#md5=e833704b4621138cdbb85a0a1aca0a79 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.4.1-py2.py3-none-any.whl#md5=5b7b07029ad2285d1cbf809a8ceaea08 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.4.2-py2.py3-none-any.whl#md5=8c51acdd5ddadeec330e0170b5b6cf90 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.5-py2.py3-none-any.whl#md5=86da88d1f0f86968a5db89a8748a7de0 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.5.1-py2.py3-none-any.whl#md5=e770b5754bcc6361e96d56d07785a447 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.6-py2.py3-none-any.whl#md5=4503e42d67edc51e293ba9be4af799a5 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.7-py2.py3-none-any.whl#md5=94eedce8d9b793d4affa4a85cd45edfa (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-5.8-py2.py3-none-any.whl#md5=c7a5c93159c447954008acf254b8555a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-6.0.1-py2.py3-none-any.whl#md5=2acddc2d68e20a5f33c2cb78ee872689 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-6.0.2-py2.py3-none-any.whl#md5=873050f7c61151f35ccd2f61708fbc39 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-6.1-py2.py3-none-any.whl#md5=19d610d6fb7d2301a769189fd9d3108e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-7.0-py2.py3-none-any.whl#md5=918e7e5ea108507e1ffbbdfccc3496b1 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-8.0-py2.py3-none-any.whl#md5=83d6f2ed2dd4de4e4316d69cb504613e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-8.0.1-py2.py3-none-any.whl#md5=d94574e85a2ccc106e87448f07bfe0cd (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-8.0.2-py2.py3-none-any.whl#md5=27d747a69ed3a9d2724ab624ed80d4b8 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-8.0.3-py2.py3-none-any.whl#md5=56fa6b1966a3395698b4b6b35963aa78 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-8.0.4-py2.py3-none-any.whl#md5=5b13e8cfe9aaee13234326a00a7f616e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-8.1-py2.py3-none-any.whl#md5=841dcdb7782cd2bcada06e91ee2dcc73 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-8.2-py2.py3-none-any.whl#md5=44a36e437d09e3eb125a14c3a428b0f8 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-8.2.1-py2.py3-none-any.whl#md5=a0582adbe0c56b3945570049b8d7c953 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-8.3-py2.py3-none-any.whl#md5=a6c2914e2ae62227a5dfb6e908475b02 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-9.0-py2.py3-none-any.whl#md5=e2cf1ca6c4293c7cad34b294a2480c8c (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-9.0.1-py2.py3-none-any.whl#md5=fba66e93e17d5a8c2dc9a8f0beddc5a9 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/s/setuptools/setuptools-9.1-py2.py3-none-any.whl#md5=6bfa6978f0070ec62fcb9afd9a5fe7cd (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-18.4-py2.py3-none-any.whl#md5=7fcc3027ef72df6be665c271d3c457b2 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-18.5-py2.py3-none-any.whl#md5=4164be592ae9ed5afa107a06bdad206a (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-18.6-py2.py3-none-any.whl#md5=bc5695dbf3718c9422a7dabfe166e9f2 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-18.6.1-py2.py3-none-any.whl#md5=2e9fc33039be587ad3646fa4875fe061 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-18.7-py2.py3-none-any.whl#md5=7768efe776a44c6171b0535fe743e4a7 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-18.7.1-py2.py3-none-any.whl#md5=a793e7b7ad3a91ca796f2e3bbd4ac355 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-18.8-py2.py3-none-any.whl#md5=3600929922e1d6f5008caea0ad33c036 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-18.8.1-py2.py3-none-any.whl#md5=d40182384798e2863ccb2e46edf614e3 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-19.0-py2.py3-none-any.whl#md5=23843c7c74b726da24b1d2f6ca5e0ef4 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-19.1-py2.py3-none-any.whl#md5=265d1c304e3976a7858d8f7000035083 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-19.1.1-py2.py3-none-any.whl#md5=29d589434b067e67c95d6625a211909e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-19.2-py2.py3-none-any.whl#md5=7bdac510b6bc1675a2a149eb3f81af77 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-19.3-py2.py3-none-any.whl#md5=9518358f1fe41ebb644899e096c975ec (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-19.4-py2.py3-none-any.whl#md5=45ad8918e4dc2568cdefe3c4138d0760 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-19.4.1-py2.py3-none-any.whl#md5=0b8fa3047a2fe43977b5b984e2392624 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-19.5-py2.py3-none-any.whl#md5=c44407cb10f9b231f5a05908dea1a803 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.5/s/setuptools/setuptools-19.6-py2.py3-none-any.whl#md5=84e43318bf00e82e3452a15352a42c4d (from https://pypi.python.org/simple/setuptools/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/any/s/setuptools/setuptools-0.6c10-1.src.rpm#md5=dd9d3819120f1c75456422e5a8b8c425 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .rpm
+    Skipping link https://pypi.python.org/packages/any/s/setuptools/setuptools-0.6c11-1.src.rpm#md5=27a3fe3a4973c0cc97534bc9e9720c3d (from https://pypi.python.org/simple/setuptools/); unknown archive format: .rpm
+    Skipping link https://pypi.python.org/packages/any/s/setuptools/setuptools-0.6c4-1.src.rpm#md5=d9faf57d76ad651aec1a55d1f914dcb1 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .rpm
+    Skipping link https://pypi.python.org/packages/any/s/setuptools/setuptools-0.6c4.win32-py2.5.exe#md5=6da1ad809703164dfedc261e03bfe05e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/any/s/setuptools/setuptools-0.6c5-1.src.rpm#md5=55c9bde1a9bb530b29ebc152fefa46ac (from https://pypi.python.org/simple/setuptools/); unknown archive format: .rpm
+    Skipping link https://pypi.python.org/packages/any/s/setuptools/setuptools-0.6c6-1.src.rpm#md5=e2b1ef5d9b9682e32988ee2f1525a56e (from https://pypi.python.org/simple/setuptools/); unknown archive format: .rpm
+    Skipping link https://pypi.python.org/packages/any/s/setuptools/setuptools-0.6c7-1.src.rpm#md5=d9fedb0300cd95a8f6529722cc8d7ac2 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .rpm
+    Skipping link https://pypi.python.org/packages/any/s/setuptools/setuptools-0.6c8-1.src.rpm#md5=ba7bf7170729847ef89399eeebd3249f (from https://pypi.python.org/simple/setuptools/); unknown archive format: .rpm
+    Skipping link https://pypi.python.org/packages/any/s/setuptools/setuptools-0.6c9-1.src.rpm#md5=82bac5d82a7e99bde9079b97f75bbe49 (from https://pypi.python.org/simple/setuptools/); unknown archive format: .rpm
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6b1.zip#md5=000447ea5cf11ebaecc4f6ce9812a561 (from https://pypi.python.org/simple/setuptools/), version: 0.6b1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6b2.zip#md5=1fb3a6936dab5b1780f4fa81ad06af9d (from https://pypi.python.org/simple/setuptools/), version: 0.6b2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6b3.zip#md5=d199ec0b344db6d2f0ee3ff1eb38d0e0 (from https://pypi.python.org/simple/setuptools/), version: 0.6b3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6b4.zip#md5=fd78ec3c84210d350ab8b05fad288983 (from https://pypi.python.org/simple/setuptools/), version: 0.6b4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c1.zip#md5=9e5e38dcce7902b892110625d18108c6 (from https://pypi.python.org/simple/setuptools/), version: 0.6c1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c10.tar.gz#md5=30f822f19b02c3082cb1ba1d69be35dd (from https://pypi.python.org/simple/setuptools/), version: 0.6c10
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c10.zip#md5=f18d008b30f719a6b6a525fa93150762 (from https://pypi.python.org/simple/setuptools/), version: 0.6c10
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c11.tar.gz#md5=7df2a529a074f613b509fb44feefe74e (from https://pypi.python.org/simple/setuptools/), version: 0.6c11
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c11.zip#md5=b2e133838129f1609af5ba091a36be7f (from https://pypi.python.org/simple/setuptools/), version: 0.6c11
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c2.zip#md5=b0729008542f44d07c510d880ba582aa (from https://pypi.python.org/simple/setuptools/), version: 0.6c2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c3.tar.gz#md5=76cb98b779d356c64323125490f88d17 (from https://pypi.python.org/simple/setuptools/), version: 0.6c3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c3.zip#md5=e579f9c0c8658c25f1bc52ddbb080e59 (from https://pypi.python.org/simple/setuptools/), version: 0.6c3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c4.tar.gz#md5=2afe4966e8bde3f104542539de9c3165 (from https://pypi.python.org/simple/setuptools/), version: 0.6c4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c4.zip#md5=7df4a5388a3ba8224963de82828c108c (from https://pypi.python.org/simple/setuptools/), version: 0.6c4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c5.tar.gz#md5=c43562970b700ab779d5328ec170f659 (from https://pypi.python.org/simple/setuptools/), version: 0.6c5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c5.zip#md5=2e3c95d0ad8fc635706aa8ab4bf112ab (from https://pypi.python.org/simple/setuptools/), version: 0.6c5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c6.tar.gz#md5=e3d56d4d19776042607cbbecae823c8b (from https://pypi.python.org/simple/setuptools/), version: 0.6c6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c6.zip#md5=a72b54fd9f7d30fec2474321faf888b1 (from https://pypi.python.org/simple/setuptools/), version: 0.6c6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c7.tar.gz#md5=dedbf6a4f71cd6deaf13ee885054f16b (from https://pypi.python.org/simple/setuptools/), version: 0.6c7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c7.zip#md5=b770f540e80f9140ae622c69b5bbfeb8 (from https://pypi.python.org/simple/setuptools/), version: 0.6c7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c8.tar.gz#md5=0e9bbe1466f3ee29588cc09d3211a010 (from https://pypi.python.org/simple/setuptools/), version: 0.6c8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c8.zip#md5=bac7c08f25548f6fce7a52b2bd96a28b (from https://pypi.python.org/simple/setuptools/), version: 0.6c8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c9.tar.gz#md5=3864c01d9c719c8924c455714492295e (from https://pypi.python.org/simple/setuptools/), version: 0.6c9
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c9.zip#md5=2b22ee3c445527df703665b33dcf766d (from https://pypi.python.org/simple/setuptools/), version: 0.6c9
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.2.tar.gz#md5=de44cd90f8a1c713d6c2bff67bbca65d (from https://pypi.python.org/simple/setuptools/), version: 0.7.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.2.zip#md5=923075dc027ee08f9ee5fe17dbe39681 (from https://pypi.python.org/simple/setuptools/), version: 0.7.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.3.tar.gz#md5=c854adacbf9067d330a847f06f7a8eba (from https://pypi.python.org/simple/setuptools/), version: 0.7.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.3.zip#md5=1666b67ae97f8d539ccbced76ec66ef1 (from https://pypi.python.org/simple/setuptools/), version: 0.7.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.4.tar.gz#md5=c0b8864b63c13312f5d9568c2a54247e (from https://pypi.python.org/simple/setuptools/), version: 0.7.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.4.zip#md5=cb8190216f4971f5b0b79a7631efeb1f (from https://pypi.python.org/simple/setuptools/), version: 0.7.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.5.tar.gz#md5=5d8dce6e13c7797e4073aa458f11ee5e (from https://pypi.python.org/simple/setuptools/), version: 0.7.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.5.zip#md5=a5a62f48b514f228b5ca81d7a9521908 (from https://pypi.python.org/simple/setuptools/), version: 0.7.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.6.tar.gz#md5=2c47bd6794759d5060bfa0d579687a26 (from https://pypi.python.org/simple/setuptools/), version: 0.7.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.6.zip#md5=ac2281254d23999283d75f07cd948643 (from https://pypi.python.org/simple/setuptools/), version: 0.7.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.7.tar.gz#md5=0d7bc0e1a34b70a97e706ef74aa7f37f (from https://pypi.python.org/simple/setuptools/), version: 0.7.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.7.zip#md5=b77049e5e3c44a660261ab076705577e (from https://pypi.python.org/simple/setuptools/), version: 0.7.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.8.tar.gz#md5=de95f4836623966090cd720b7da82c91 (from https://pypi.python.org/simple/setuptools/), version: 0.7.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.7.8.zip#md5=adbcce96c569347f96d87a1f60bdc614 (from https://pypi.python.org/simple/setuptools/), version: 0.7.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.8.tar.gz#md5=ab5f2bbc67f0dbdfeb3075f14d0b029c (from https://pypi.python.org/simple/setuptools/), version: 0.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.8.zip#md5=7e8bb36a09159edb01c7793d85404cdd (from https://pypi.python.org/simple/setuptools/), version: 0.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.1.tar.gz#md5=7068dcbd9ea44139f5abeb65cb916f15 (from https://pypi.python.org/simple/setuptools/), version: 0.9.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.1.zip#md5=60c8debb4e1fc88c70d65c0d37af91c3 (from https://pypi.python.org/simple/setuptools/), version: 0.9.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.2.tar.gz#md5=35d84125c9035d295365b56d9da0d37c (from https://pypi.python.org/simple/setuptools/), version: 0.9.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.2.zip#md5=9e11d6415c27e31a06770e8a3112135d (from https://pypi.python.org/simple/setuptools/), version: 0.9.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.3.tar.gz#md5=142b8891558ae09fa3b3070e88dca004 (from https://pypi.python.org/simple/setuptools/), version: 0.9.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.3.zip#md5=fc8b50e2631002faf785875adf2e46a8 (from https://pypi.python.org/simple/setuptools/), version: 0.9.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.4.tar.gz#md5=836e5a9260af178846f3e160efc19613 (from https://pypi.python.org/simple/setuptools/), version: 0.9.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.4.zip#md5=5a3cf44e2bc4a8fab94dd1b470a15657 (from https://pypi.python.org/simple/setuptools/), version: 0.9.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.5.tar.gz#md5=2461dc5378277cfae68809baf8e0ef81 (from https://pypi.python.org/simple/setuptools/), version: 0.9.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.5.zip#md5=c95d85a67591e0ad12ea59fbb5f92834 (from https://pypi.python.org/simple/setuptools/), version: 0.9.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.6.tar.gz#md5=8c552a3b1e666d37a44e3123a1d1d46c (from https://pypi.python.org/simple/setuptools/), version: 0.9.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.6.zip#md5=9fcc2882f07fd032ba2cce56b4759e99 (from https://pypi.python.org/simple/setuptools/), version: 0.9.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.7.tar.gz#md5=ce3bb480e4f6d71fc2fb3388f6fe8123 (from https://pypi.python.org/simple/setuptools/), version: 0.9.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.7.zip#md5=8c61d0f111b6d01deb40c50c3e9421e2 (from https://pypi.python.org/simple/setuptools/), version: 0.9.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.8.tar.gz#md5=243076241781935f7fcad370195a4291 (from https://pypi.python.org/simple/setuptools/), version: 0.9.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.8.zip#md5=40083aebf7cbc964b155538b535e549d (from https://pypi.python.org/simple/setuptools/), version: 0.9.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.tar.gz#md5=fb0177d706bf78b3062c8dec2c9bfa63 (from https://pypi.python.org/simple/setuptools/), version: 0.9
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.9.zip#md5=db55f4fe8c0ef4213ad5ea81db1f3fdd (from https://pypi.python.org/simple/setuptools/), version: 0.9
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.0.tar.gz#md5=3d196ffb6e5e4425daddbb4fe42a4a74 (from https://pypi.python.org/simple/setuptools/), version: 1.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.0.zip#md5=98ca0212c411a26e57c7900f464e8cb6 (from https://pypi.python.org/simple/setuptools/), version: 1.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.1.tar.gz#md5=c8d19510c03b0e2e01880c0d8f080083 (from https://pypi.python.org/simple/setuptools/), version: 1.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.1.zip#md5=361521f5be129ea5347e1dd93a9d90cf (from https://pypi.python.org/simple/setuptools/), version: 1.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.2.tar.gz#md5=ce8a00f95368f424da2b43cafb9c7041 (from https://pypi.python.org/simple/setuptools/), version: 1.1.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.2.zip#md5=a5df0feccac85be9ecad847c2dd7b5e5 (from https://pypi.python.org/simple/setuptools/), version: 1.1.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.3.tar.gz#md5=142d0fff49f9e35be29672b6e4e6eeb3 (from https://pypi.python.org/simple/setuptools/), version: 1.1.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.3.zip#md5=4d9dd1c2046b7b3ba3306aa9a7833a12 (from https://pypi.python.org/simple/setuptools/), version: 1.1.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.4.tar.gz#md5=e6712aaf91f9fe94faa5b677d343b23f (from https://pypi.python.org/simple/setuptools/), version: 1.1.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.4.zip#md5=d00452d03624c789de9bccdbcc067eeb (from https://pypi.python.org/simple/setuptools/), version: 1.1.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.5.tar.gz#md5=8d2a7d43de8e1d1e1e92366cc9f93be2 (from https://pypi.python.org/simple/setuptools/), version: 1.1.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.5.zip#md5=10ea1f5dcb38debe8ee9e4d510bfb338 (from https://pypi.python.org/simple/setuptools/), version: 1.1.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.6.tar.gz#md5=ee82ea53def4480191061997409d2996 (from https://pypi.python.org/simple/setuptools/), version: 1.1.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.6.zip#md5=17838c189ea368fc58007f5ccd816f31 (from https://pypi.python.org/simple/setuptools/), version: 1.1.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.7.tar.gz#md5=1f33594d25d574a1640ffb84667c6759 (from https://pypi.python.org/simple/setuptools/), version: 1.1.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.7.zip#md5=b13519b3110d84538f9719c071352a8f (from https://pypi.python.org/simple/setuptools/), version: 1.1.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.tar.gz#md5=84062633c3818c912af76d54a40d11a7 (from https://pypi.python.org/simple/setuptools/), version: 1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.zip#md5=6309c8d4aa852cfd7727630b993bcc99 (from https://pypi.python.org/simple/setuptools/), version: 1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.2.tar.gz#md5=82aeff8bf09a3b544dc07c2b4ff62f38 (from https://pypi.python.org/simple/setuptools/), version: 1.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.2.zip#md5=0feb2eea57994801ac7a8799e17f5b0a (from https://pypi.python.org/simple/setuptools/), version: 1.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.3.1.tar.gz#md5=e11d54d34c8c94f4ecfadb6b20df38b2 (from https://pypi.python.org/simple/setuptools/), version: 1.3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.3.1.zip#md5=cf761aa3ad3d11fe64203d80ac25c2d5 (from https://pypi.python.org/simple/setuptools/), version: 1.3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.3.2.tar.gz#md5=441f2e58c0599d31597622a7b9eb605f (from https://pypi.python.org/simple/setuptools/), version: 1.3.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.3.2.zip#md5=928796e1a09e95837a159297e9a358c6 (from https://pypi.python.org/simple/setuptools/), version: 1.3.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.3.tar.gz#md5=131956989d1ec7bac1f7be034800f183 (from https://pypi.python.org/simple/setuptools/), version: 1.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.3.zip#md5=d02c2ef7ec0eb3d3f960f2ab0fff9cd4 (from https://pypi.python.org/simple/setuptools/), version: 1.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.4.1.tar.gz#md5=65bb270fbae373c26a2fa890ad907818 (from https://pypi.python.org/simple/setuptools/), version: 1.4.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.4.1.zip#md5=7f1e5d3724f0c812f68073ad2a7495b7 (from https://pypi.python.org/simple/setuptools/), version: 1.4.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.4.2.tar.gz#md5=13951be6711438073fbe50843e7f141f (from https://pypi.python.org/simple/setuptools/), version: 1.4.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.4.2.zip#md5=bd17667a9c460ebabc773243576871b0 (from https://pypi.python.org/simple/setuptools/), version: 1.4.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.4.tar.gz#md5=5710464bc5a61d75f5087f15ce63cfe0 (from https://pypi.python.org/simple/setuptools/), version: 1.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-1.4.zip#md5=8987f17c045714a0069327323fb6e1c8 (from https://pypi.python.org/simple/setuptools/), version: 1.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.0.1.tar.gz#md5=abaf3b5d654eb525b9ca67c6d4522292 (from https://pypi.python.org/simple/setuptools/), version: 10.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.0.1.zip#md5=f19e71cf680afd3ef11dbe6b2fd7d4b0 (from https://pypi.python.org/simple/setuptools/), version: 10.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.0.tar.gz#md5=461cf867a67268fb9c3c3a00d4fde933 (from https://pypi.python.org/simple/setuptools/), version: 10.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.0.zip#md5=bfd904d7d6b23f327155f8d51b1bd533 (from https://pypi.python.org/simple/setuptools/), version: 10.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.1.tar.gz#md5=5c5b44933fd49fb24d259593c9f3fde2 (from https://pypi.python.org/simple/setuptools/), version: 10.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.1.zip#md5=b1648d4ba45a445fbaaa4154758c3a98 (from https://pypi.python.org/simple/setuptools/), version: 10.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.2.1.tar.gz#md5=fb65140d5b8564c424ec079781ce79a8 (from https://pypi.python.org/simple/setuptools/), version: 10.2.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.2.1.zip#md5=e602425bc423b072516e5bd1fc5e7a67 (from https://pypi.python.org/simple/setuptools/), version: 10.2.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.2.tar.gz#md5=859b1429b5076db2d01b75b8c38d1edf (from https://pypi.python.org/simple/setuptools/), version: 10.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-10.2.zip#md5=c4a4ca8881691badc331848e91915d2b (from https://pypi.python.org/simple/setuptools/), version: 10.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.0.tar.gz#md5=723d5e3e10cceeca37c9c2ce386656ec (from https://pypi.python.org/simple/setuptools/), version: 11.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.0.zip#md5=aad9250b1564368f073a9c1785b8975c (from https://pypi.python.org/simple/setuptools/), version: 11.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.1.tar.gz#md5=db7471ada5a6e9680dceee34a39f0cc1 (from https://pypi.python.org/simple/setuptools/), version: 11.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.1.zip#md5=1c84a741fca8ea9e83e01736afa59db3 (from https://pypi.python.org/simple/setuptools/), version: 11.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.2.tar.gz#md5=4a4584014b24a1ae6386aad2a2dd6212 (from https://pypi.python.org/simple/setuptools/), version: 11.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.2.zip#md5=f57217e7711501a8551bc6b9933d6756 (from https://pypi.python.org/simple/setuptools/), version: 11.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.3.1.tar.gz#md5=01f69212e019a2420c1693fb43593930 (from https://pypi.python.org/simple/setuptools/), version: 11.3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.3.1.zip#md5=a009c6013e66af6bb979a1dd661a8e69 (from https://pypi.python.org/simple/setuptools/), version: 11.3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.3.tar.gz#md5=11c7c090c7842191b72e911ce320ddda (from https://pypi.python.org/simple/setuptools/), version: 11.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-11.3.zip#md5=a6e041c1acda35a2e7e8e7da4a2f5019 (from https://pypi.python.org/simple/setuptools/), version: 11.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.1.tar.gz#md5=bb2ddbdc5157e1b9d1d1da5156b6e942 (from https://pypi.python.org/simple/setuptools/), version: 12.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.1.zip#md5=78d620a3cbbdf75f0c7b32e44d4cbf2a (from https://pypi.python.org/simple/setuptools/), version: 12.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.2.tar.gz#md5=5b68329633ee47614d6ef1996984eccb (from https://pypi.python.org/simple/setuptools/), version: 12.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.2.zip#md5=6214abe13b8bbe7abd297745b9c618ab (from https://pypi.python.org/simple/setuptools/), version: 12.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.3.tar.gz#md5=f07e4b0f4c1c9368fcd980d888b29a65 (from https://pypi.python.org/simple/setuptools/), version: 12.0.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.3.zip#md5=99a684f4274e669f1b50b9c4cfe46af0 (from https://pypi.python.org/simple/setuptools/), version: 12.0.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.4.tar.gz#md5=73cf31ef69758a7a14e743b094ccf328 (from https://pypi.python.org/simple/setuptools/), version: 12.0.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.4.zip#md5=dd15a1e9211ae960eff01f2d9d05d1e6 (from https://pypi.python.org/simple/setuptools/), version: 12.0.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.5.tar.gz#md5=066e16290f8edcbc8b4b67808b2cbdb2 (from https://pypi.python.org/simple/setuptools/), version: 12.0.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.5.zip#md5=de4abcc446f87b7e2392b2e695b70a1b (from https://pypi.python.org/simple/setuptools/), version: 12.0.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.tar.gz#md5=9a16428dbca14bf401ed278df377a40a (from https://pypi.python.org/simple/setuptools/), version: 12.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.0.zip#md5=cb118ecfc9ea6e224eafdb33cd8d313d (from https://pypi.python.org/simple/setuptools/), version: 12.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.1.tar.gz#md5=fb96eaca81677326deccccdbb67de821 (from https://pypi.python.org/simple/setuptools/), version: 12.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.1.zip#md5=ff65cee38e0f332b79ddd18c719a45d0 (from https://pypi.python.org/simple/setuptools/), version: 12.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.2.tar.gz#md5=bbf48d4bf5f47096870caf298ddadeb2 (from https://pypi.python.org/simple/setuptools/), version: 12.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.2.zip#md5=8b00538f5b71ea8241c33963c869199d (from https://pypi.python.org/simple/setuptools/), version: 12.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.3.tar.gz#md5=67614b6d560fa4f240e99cd553ec7f32 (from https://pypi.python.org/simple/setuptools/), version: 12.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.3.zip#md5=abc799e7db6e7281535bf342bfc41a12 (from https://pypi.python.org/simple/setuptools/), version: 12.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.4.tar.gz#md5=0160a882900196a8923007a0fd2e46b1 (from https://pypi.python.org/simple/setuptools/), version: 12.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-12.4.zip#md5=b088ed7a43a93a1fd1fcabdf73bfa0bf (from https://pypi.python.org/simple/setuptools/), version: 12.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-13.0.1.tar.gz#md5=43ea32c2e5181235283b64ad323ba912 (from https://pypi.python.org/simple/setuptools/), version: 13.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-13.0.1.zip#md5=8be6b167727eb94ac446ec0fb9bb37fe (from https://pypi.python.org/simple/setuptools/), version: 13.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-13.0.2.tar.gz#md5=2f324593ce5f67fc6ae97bf28739d7c3 (from https://pypi.python.org/simple/setuptools/), version: 13.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-13.0.2.zip#md5=fc87617cbde076e16ea421e162eb4852 (from https://pypi.python.org/simple/setuptools/), version: 13.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.0.tar.gz#md5=058655fe511deccb4359bf02727f5199 (from https://pypi.python.org/simple/setuptools/), version: 14.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.0.zip#md5=6c270677f1f29f7cdf3ed4ad503a1585 (from https://pypi.python.org/simple/setuptools/), version: 14.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.1.1.tar.gz#md5=babf06056ce4314cd4c51259582982b7 (from https://pypi.python.org/simple/setuptools/), version: 14.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.1.1.zip#md5=b8993be81930803479a3c4b83cd18e10 (from https://pypi.python.org/simple/setuptools/), version: 14.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.1.tar.gz#md5=5126f3ddabb1ae44a4fd0a7996f8065f (from https://pypi.python.org/simple/setuptools/), version: 14.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.1.zip#md5=4d88ce862af50b3992df7d5af66c55c3 (from https://pypi.python.org/simple/setuptools/), version: 14.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.2.tar.gz#md5=bf903e4658f36dbc07c49834d71fa4a6 (from https://pypi.python.org/simple/setuptools/), version: 14.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.2.zip#md5=6f35aba4d4de80440a4e5963091295fa (from https://pypi.python.org/simple/setuptools/), version: 14.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.3.1.tar.gz#md5=cdba2741b16acaa3ed06c2252623f6b9 (from https://pypi.python.org/simple/setuptools/), version: 14.3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.3.1.zip#md5=91b7dad3a45038b63c34a9afd0634b2a (from https://pypi.python.org/simple/setuptools/), version: 14.3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.3.tar.gz#md5=b428d481e0beeba5ae59fd4d67d04fb8 (from https://pypi.python.org/simple/setuptools/), version: 14.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-14.3.zip#md5=2929b7ebe39ad47f37a25b5a8e66371c (from https://pypi.python.org/simple/setuptools/), version: 14.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-15.0.tar.gz#md5=2a6b2901b6c265d682139345849cbf03 (from https://pypi.python.org/simple/setuptools/), version: 15.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-15.0.zip#md5=919ed086036a5503e3804fa46b5bc3ec (from https://pypi.python.org/simple/setuptools/), version: 15.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-15.1.tar.gz#md5=10407f6737d8dc37e5310e68c1f1f6ec (from https://pypi.python.org/simple/setuptools/), version: 15.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-15.1.zip#md5=39a7e5ecc6cc89993b244c69526f8b7f (from https://pypi.python.org/simple/setuptools/), version: 15.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-15.2.tar.gz#md5=a9028a9794fc7ae02320d32e2d7e12ee (from https://pypi.python.org/simple/setuptools/), version: 15.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-15.2.zip#md5=d5d28d99d41e0b8c8eb712be2a0f724d (from https://pypi.python.org/simple/setuptools/), version: 15.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-16.0.tar.gz#md5=0ace0b96233516fc5f7c857d086aa3ad (from https://pypi.python.org/simple/setuptools/), version: 16.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-16.0.zip#md5=b9a0cade80ed58a05759d0ab318785e0 (from https://pypi.python.org/simple/setuptools/), version: 16.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-17.0.tar.gz#md5=fd15d24ed1e4c95e56d8c6e812f3a84f (from https://pypi.python.org/simple/setuptools/), version: 17.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-17.0.zip#md5=a661715d164163ec7a01a9277a6d49da (from https://pypi.python.org/simple/setuptools/), version: 17.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-17.1.1.tar.gz#md5=7edec6cc30aca5518fa9bad42ff0179b (from https://pypi.python.org/simple/setuptools/), version: 17.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-17.1.1.zip#md5=363668feaa5137a8c6d3c94f4e27949e (from https://pypi.python.org/simple/setuptools/), version: 17.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-17.1.tar.gz#md5=e597f049b9399fab881da8ab56abac26 (from https://pypi.python.org/simple/setuptools/), version: 17.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-17.1.zip#md5=e72c21140ca8b68f0c35e76ef7ff971d (from https://pypi.python.org/simple/setuptools/), version: 17.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.0.1.tar.gz#md5=cecd172c9ff7fd5f2e16b2fcc88bba51 (from https://pypi.python.org/simple/setuptools/), version: 18.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.0.1.zip#md5=9746c2a5347128d00189e3900e88cc52 (from https://pypi.python.org/simple/setuptools/), version: 18.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.0.tar.gz#md5=9f8721185c43bf3d93423d3f2445527d (from https://pypi.python.org/simple/setuptools/), version: 18.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.0.zip#md5=56baba71cb3bda1315e27d1f9fad1bb2 (from https://pypi.python.org/simple/setuptools/), version: 18.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.1.tar.gz#md5=f72e87f34fbf07f299f6cb46256a0b06 (from https://pypi.python.org/simple/setuptools/), version: 18.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.1.zip#md5=02d4162c6c4252f0677caee77f1ed8af (from https://pypi.python.org/simple/setuptools/), version: 18.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.2.tar.gz#md5=52b4e48939ef311d7204f8fe940764f4 (from https://pypi.python.org/simple/setuptools/), version: 18.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.2.zip#md5=ae2937d407fa9b4147782829045a7b9c (from https://pypi.python.org/simple/setuptools/), version: 18.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.3.1.tar.gz#md5=748187b93152fa60287dfb896837fd7c (from https://pypi.python.org/simple/setuptools/), version: 18.3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.3.1.zip#md5=c3b735ed07bd38e3145c165ac27b311f (from https://pypi.python.org/simple/setuptools/), version: 18.3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.3.2.tar.gz#md5=d30c969065bd384266e411c446a86623 (from https://pypi.python.org/simple/setuptools/), version: 18.3.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.3.2.zip#md5=d19f07502eae269853d0b3ec88aa26cd (from https://pypi.python.org/simple/setuptools/), version: 18.3.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.3.tar.gz#md5=9ff0ec700f7e10f2eb72f34df387f53a (from https://pypi.python.org/simple/setuptools/), version: 18.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.3.zip#md5=eac436159092204e0fee9bc03d77a2ac (from https://pypi.python.org/simple/setuptools/), version: 18.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.4.tar.gz#md5=214c6c43bd7035e870c1beab402c48e7 (from https://pypi.python.org/simple/setuptools/), version: 18.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.4.zip#md5=38d5cd321ca9de2cdb1dafcac4cb7007 (from https://pypi.python.org/simple/setuptools/), version: 18.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.5.tar.gz#md5=533c868f01169a3085177dffe5e768bb (from https://pypi.python.org/simple/setuptools/), version: 18.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.5.zip#md5=db877c1ea889a036e26321db71105a14 (from https://pypi.python.org/simple/setuptools/), version: 18.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.6.1.tar.gz#md5=d4797a533b3c7466fd36a791c2de94d2 (from https://pypi.python.org/simple/setuptools/), version: 18.6.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.6.1.zip#md5=88bdce9b8740b739ad1a6013a363504e (from https://pypi.python.org/simple/setuptools/), version: 18.6.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.6.tar.gz#md5=37d616428d7b8308803f6d6852101f4c (from https://pypi.python.org/simple/setuptools/), version: 18.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.6.zip#md5=15ca4f18985a8d2a4f4b7490109c78b6 (from https://pypi.python.org/simple/setuptools/), version: 18.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.7.1.tar.gz#md5=a0984da9cd8d7b582e1fd7de67dfdbcc (from https://pypi.python.org/simple/setuptools/), version: 18.7.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.7.1.zip#md5=c186c46bdd37e0e229c2be2b97aab2b2 (from https://pypi.python.org/simple/setuptools/), version: 18.7.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.7.tar.gz#md5=295d7aaef2da7d6ff10b522581da0cf9 (from https://pypi.python.org/simple/setuptools/), version: 18.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.7.zip#md5=1209c66533d6d18706420b5a30379c22 (from https://pypi.python.org/simple/setuptools/), version: 18.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.8.1.tar.gz#md5=28dc1aed0bd3a2ace6d9e53c8df03497 (from https://pypi.python.org/simple/setuptools/), version: 18.8.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.8.1.zip#md5=2cc2f9c0970bef40f95184639fb97fdc (from https://pypi.python.org/simple/setuptools/), version: 18.8.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.8.tar.gz#md5=4b046c271a02adf4c42dc60cbfe3f5ba (from https://pypi.python.org/simple/setuptools/), version: 18.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-18.8.zip#md5=d3f12546aba2d7e35f9f04f8a6acf166 (from https://pypi.python.org/simple/setuptools/), version: 18.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.0.tar.gz#md5=b921200449c8b52d62c7e70a47956b69 (from https://pypi.python.org/simple/setuptools/), version: 19.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.0.zip#md5=4b6c9922519117fdec33a402ada0e096 (from https://pypi.python.org/simple/setuptools/), version: 19.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.1.1.tar.gz#md5=792297b8918afa9faf826cb5ec4a447a (from https://pypi.python.org/simple/setuptools/), version: 19.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.1.1.zip#md5=fff1ae21769ffdf1f0e994b658c50861 (from https://pypi.python.org/simple/setuptools/), version: 19.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.1.tar.gz#md5=16d294018b1a12875e441fe55abd0ec9 (from https://pypi.python.org/simple/setuptools/), version: 19.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.1.zip#md5=0ce55ef542ac94483c2f8e9cf0ccf2d5 (from https://pypi.python.org/simple/setuptools/), version: 19.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.2.tar.gz#md5=78353b1f80375ca5e088f4b4627ffe03 (from https://pypi.python.org/simple/setuptools/), version: 19.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.2.zip#md5=a3573f91b15c46f377f24465bed91b9c (from https://pypi.python.org/simple/setuptools/), version: 19.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.3.tar.gz#md5=8a1b881f7c332984c573fc6b78506d2e (from https://pypi.python.org/simple/setuptools/), version: 19.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.3.zip#md5=8f17db6491a4911210f0b153da6975a8 (from https://pypi.python.org/simple/setuptools/), version: 19.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.4.1.tar.gz#md5=bc2313ab0e4860ae7a19d6a6ec1b027e (from https://pypi.python.org/simple/setuptools/), version: 19.4.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.4.1.zip#md5=64d37dcc5bd7356707ee5afd7d01fec6 (from https://pypi.python.org/simple/setuptools/), version: 19.4.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.4.tar.gz#md5=c5a7d90c1e0acf8c4ec5c2bf31bc25b5 (from https://pypi.python.org/simple/setuptools/), version: 19.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.4.zip#md5=c2fef765c46b47a8fe70a826b03c5199 (from https://pypi.python.org/simple/setuptools/), version: 19.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.5.tar.gz#md5=c06bf8ebf4393946115092780e60e313 (from https://pypi.python.org/simple/setuptools/), version: 19.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.5.zip#md5=8a42987f98fb7ea8c6e6e56785467643 (from https://pypi.python.org/simple/setuptools/), version: 19.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.6.tar.gz#md5=c607dd118eae682c44ed146367a17e26 (from https://pypi.python.org/simple/setuptools/), version: 19.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-19.6.zip#md5=a14c998f8e9d2e7729aead6130a173e8 (from https://pypi.python.org/simple/setuptools/), version: 19.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.0.1.tar.gz#md5=04aedc705644fda5848b7b428774e5ff (from https://pypi.python.org/simple/setuptools/), version: 2.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.0.1.zip#md5=20e09be8c79c1a87338908f7950ce7a6 (from https://pypi.python.org/simple/setuptools/), version: 2.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.0.2.tar.gz#md5=101b0829eca064fe47708039d66fc135 (from https://pypi.python.org/simple/setuptools/), version: 2.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.0.2.zip#md5=eb3edcb6397dd09394fd16a7cfadb4a4 (from https://pypi.python.org/simple/setuptools/), version: 2.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.0.tar.gz#md5=887cdf417bc5d25326c66bb98c0dd160 (from https://pypi.python.org/simple/setuptools/), version: 2.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.0.zip#md5=5ea1672a903f134634c258bc6b351223 (from https://pypi.python.org/simple/setuptools/), version: 2.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.1.1.tar.gz#md5=e18af60a87982d6f7bf73176aed6bb49 (from https://pypi.python.org/simple/setuptools/), version: 2.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.1.1.zip#md5=f0c7e341f13fafbaaf0cc2d3dbfe28d4 (from https://pypi.python.org/simple/setuptools/), version: 2.1.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.1.2.tar.gz#md5=3fb7b3abb02d1d1eb9dc45e1c53e1539 (from https://pypi.python.org/simple/setuptools/), version: 2.1.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.1.2.zip#md5=eea47daf3c7f2369d73c020c0aa03653 (from https://pypi.python.org/simple/setuptools/), version: 2.1.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.1.tar.gz#md5=2044725530450d0517393882dc4b7508 (from https://pypi.python.org/simple/setuptools/), version: 2.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.1.zip#md5=3b75518808afbe99b7adc2b8b68acb96 (from https://pypi.python.org/simple/setuptools/), version: 2.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.2.tar.gz#md5=04a7664538957b832710653fd7d5b4e6 (from https://pypi.python.org/simple/setuptools/), version: 2.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-2.2.zip#md5=ae9693ec7b4e887a9f97cd4c97b00bb2 (from https://pypi.python.org/simple/setuptools/), version: 2.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.0.1.tar.gz#md5=ef988aaede7b18f8cd849cec490a5176 (from https://pypi.python.org/simple/setuptools/), version: 3.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.0.1.zip#md5=d7f730a481c4153e30a8a2d62f1cfa23 (from https://pypi.python.org/simple/setuptools/), version: 3.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.0.2.tar.gz#md5=0a5b2ed6939c1ac3bc70bc53f3a8293d (from https://pypi.python.org/simple/setuptools/), version: 3.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.0.2.zip#md5=68d039abebc08416bd513badf2a827ed (from https://pypi.python.org/simple/setuptools/), version: 3.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.0.tar.gz#md5=a6dfc255206e4ebf88cc07758c29095d (from https://pypi.python.org/simple/setuptools/), version: 3.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.0.zip#md5=cac0ad422e55317273abc3b594d54187 (from https://pypi.python.org/simple/setuptools/), version: 3.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.1.tar.gz#md5=425c2fa9329fc000e8c5ff947df001c3 (from https://pypi.python.org/simple/setuptools/), version: 3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.1.zip#md5=1db4b5716c08df476a5b7b3e8c49952b (from https://pypi.python.org/simple/setuptools/), version: 3.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.2.tar.gz#md5=d354131f1bcf6fcc62b4de3d71b45189 (from https://pypi.python.org/simple/setuptools/), version: 3.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.2.zip#md5=562bec581b860df302d24eed5672df4c (from https://pypi.python.org/simple/setuptools/), version: 3.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.3.tar.gz#md5=87680a0eb0bb6f720d5e2d89ba67debc (from https://pypi.python.org/simple/setuptools/), version: 3.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.3.zip#md5=284fa92c5e32c113a4bc00bd20c4eef8 (from https://pypi.python.org/simple/setuptools/), version: 3.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.1.tar.gz#md5=252a38c6b25f1ac446ba6983095dbf3f (from https://pypi.python.org/simple/setuptools/), version: 3.4.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.1.zip#md5=c90363f1000e0651d13524f871277ff9 (from https://pypi.python.org/simple/setuptools/), version: 3.4.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.2.tar.gz#md5=3994bf55239eac30f569abb7a44ad706 (from https://pypi.python.org/simple/setuptools/), version: 3.4.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.2.zip#md5=0d912bde9ca66053bcd207c1522fd7ce (from https://pypi.python.org/simple/setuptools/), version: 3.4.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.3.tar.gz#md5=284bf84819c0f6735c853619d1a54955 (from https://pypi.python.org/simple/setuptools/), version: 3.4.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.3.zip#md5=161b3ba77f3d3ddda9aaca9ce53e5d9f (from https://pypi.python.org/simple/setuptools/), version: 3.4.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.4.tar.gz#md5=6ca9e8377b65233c2ff3a1752406a22d (from https://pypi.python.org/simple/setuptools/), version: 3.4.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.4.zip#md5=5f7c0a99cb66df161a6c08737d91f11e (from https://pypi.python.org/simple/setuptools/), version: 3.4.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.tar.gz#md5=30dd95909a50284a95e5241a9bad6e02 (from https://pypi.python.org/simple/setuptools/), version: 3.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.4.zip#md5=f19254f45c0c2a40c709dacae9c20b74 (from https://pypi.python.org/simple/setuptools/), version: 3.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.5.1.tar.gz#md5=d0447ca5adeeac93ef43931c395788c3 (from https://pypi.python.org/simple/setuptools/), version: 3.5.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.5.1.zip#md5=9c37a155d7237da566f143711a97425f (from https://pypi.python.org/simple/setuptools/), version: 3.5.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.5.2.tar.gz#md5=7549f9f526fcd2ba9a429791910f3a65 (from https://pypi.python.org/simple/setuptools/), version: 3.5.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.5.2.zip#md5=d7e43963694ae3c84cc9df9542954f73 (from https://pypi.python.org/simple/setuptools/), version: 3.5.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.5.tar.gz#md5=58da1bcbf0d648571ae49d4988879da5 (from https://pypi.python.org/simple/setuptools/), version: 3.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.5.zip#md5=6a88d1794eebf69d6eff2d4ae3b87975 (from https://pypi.python.org/simple/setuptools/), version: 3.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.6.tar.gz#md5=8f3a1dcdc14313c8334eb6af4f66ea0a (from https://pypi.python.org/simple/setuptools/), version: 3.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.6.zip#md5=985a92e582a288ebedb0aa9f5e9f6d0d (from https://pypi.python.org/simple/setuptools/), version: 3.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.7.1.tar.gz#md5=8ba2c9c6604dcfa11f13255e2dfbd8b9 (from https://pypi.python.org/simple/setuptools/), version: 3.7.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.7.1.zip#md5=20a658b0299bbb4f4c8cb3ae8ec04496 (from https://pypi.python.org/simple/setuptools/), version: 3.7.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.7.tar.gz#md5=708c435c3a2ae0c5eaeea953a7c6f1b4 (from https://pypi.python.org/simple/setuptools/), version: 3.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.7.zip#md5=7088ce63f220a3e84869e9591f4b6685 (from https://pypi.python.org/simple/setuptools/), version: 3.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.8.1.tar.gz#md5=f2219937a17d4311499a52e82cba681e (from https://pypi.python.org/simple/setuptools/), version: 3.8.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.8.1.zip#md5=2e9f8728bd97e88e4e138e33bf54fc66 (from https://pypi.python.org/simple/setuptools/), version: 3.8.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.8.tar.gz#md5=68af86d502d5cd6a42e867d936140975 (from https://pypi.python.org/simple/setuptools/), version: 3.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-3.8.zip#md5=97450c8ebedb1a946a3c582bcd8bd877 (from https://pypi.python.org/simple/setuptools/), version: 3.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-4.0.1.tar.gz#md5=9292eaa802be497a053827b725c0cdc3 (from https://pypi.python.org/simple/setuptools/), version: 4.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-4.0.1.zip#md5=a754416fc27f6e05ae38e5aedc573f5d (from https://pypi.python.org/simple/setuptools/), version: 4.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-4.0.tar.gz#md5=9712ad0d1197d58225ef52214bd9e5e2 (from https://pypi.python.org/simple/setuptools/), version: 4.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-4.0.zip#md5=efe3a086740c9ba3cbd6ddcca6aebc1f (from https://pypi.python.org/simple/setuptools/), version: 4.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.0.1.tar.gz#md5=d8c5c8f3b50f2fd71d8c8525f4535615 (from https://pypi.python.org/simple/setuptools/), version: 5.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.0.1.zip#md5=26007b203ef5ac676a97d93bf32e30c4 (from https://pypi.python.org/simple/setuptools/), version: 5.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.0.2.tar.gz#md5=2e1a307c48ddaec6054f5158cbf35d9b (from https://pypi.python.org/simple/setuptools/), version: 5.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.0.2.zip#md5=6a9d13daa746c38e95401d886d831410 (from https://pypi.python.org/simple/setuptools/), version: 5.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.0.tar.gz#md5=27a16b83785357b19c11a9e7ff3047d7 (from https://pypi.python.org/simple/setuptools/), version: 5.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.0.zip#md5=9a8b8e2199b5facbadb818e02364b2b3 (from https://pypi.python.org/simple/setuptools/), version: 5.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.1.tar.gz#md5=c26e47ce8d7b46bd354e68301f410fb8 (from https://pypi.python.org/simple/setuptools/), version: 5.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.1.zip#md5=cb9452d585cfc89ec46bc70a21bcd6aa (from https://pypi.python.org/simple/setuptools/), version: 5.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.2.tar.gz#md5=ea6ed9ab1a4abe978dade73a592a229c (from https://pypi.python.org/simple/setuptools/), version: 5.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.2.zip#md5=add4cd3cf332be15ea5e522871341ae8 (from https://pypi.python.org/simple/setuptools/), version: 5.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.3.tar.gz#md5=f4e0aa872b3e64de38c5acb478c9452b (from https://pypi.python.org/simple/setuptools/), version: 5.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.3.zip#md5=1464c0da4425b0846ae842d52e5eb1dd (from https://pypi.python.org/simple/setuptools/), version: 5.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.4.1.tar.gz#md5=3540a44b90017cbb851840934156848e (from https://pypi.python.org/simple/setuptools/), version: 5.4.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.4.1.zip#md5=96bd961ab481c78825a5be8546f42a66 (from https://pypi.python.org/simple/setuptools/), version: 5.4.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.4.2.tar.gz#md5=95ed0bcef8a41302d6dd8f7562258679 (from https://pypi.python.org/simple/setuptools/), version: 5.4.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.4.2.zip#md5=acd886db986e3bb46bdee892b5ae961d (from https://pypi.python.org/simple/setuptools/), version: 5.4.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.4.tar.gz#md5=cecc6d68d76d9f29dabe39247233f8c7 (from https://pypi.python.org/simple/setuptools/), version: 5.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.4.zip#md5=125e7bcbccdf8e56db7b0c7dd4616ab0 (from https://pypi.python.org/simple/setuptools/), version: 5.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.5.1.tar.gz#md5=86bbbfa732c234535316a7d74a49c6ad (from https://pypi.python.org/simple/setuptools/), version: 5.5.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.5.1.zip#md5=9d4c3013aee82944fc63b245e5ab7b40 (from https://pypi.python.org/simple/setuptools/), version: 5.5.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.5.tar.gz#md5=e66250aaceabe0cd053720f46ceb546b (from https://pypi.python.org/simple/setuptools/), version: 5.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.5.zip#md5=3f78641e40c260c2b0e85de81ccf3b4d (from https://pypi.python.org/simple/setuptools/), version: 5.5
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.6.tar.gz#md5=a4fef0a175f397f8e4e89b85bd9a9960 (from https://pypi.python.org/simple/setuptools/), version: 5.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.6.zip#md5=97ccf2ff86ae0bcfe5bd1da6848c0006 (from https://pypi.python.org/simple/setuptools/), version: 5.6
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.7.tar.gz#md5=81f980854a239d60d074d6ba052e21ed (from https://pypi.python.org/simple/setuptools/), version: 5.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.7.zip#md5=1b64b4b657759739b4fb64272cf49433 (from https://pypi.python.org/simple/setuptools/), version: 5.7
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.8.tar.gz#md5=356480fdf03590cfdf4210cf8366bcaf (from https://pypi.python.org/simple/setuptools/), version: 5.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-5.8.zip#md5=df27b76355e337bdbe904db6f4dfc339 (from https://pypi.python.org/simple/setuptools/), version: 5.8
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-6.0.1.tar.gz#md5=06a9cd86182db94166881e228cece713 (from https://pypi.python.org/simple/setuptools/), version: 6.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-6.0.1.zip#md5=f35cd3a424145c68c235dcb7aef89c48 (from https://pypi.python.org/simple/setuptools/), version: 6.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-6.0.2.tar.gz#md5=b79fab610e362fe8e3a9cb92fb9d95ef (from https://pypi.python.org/simple/setuptools/), version: 6.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-6.0.2.zip#md5=2429fcd8c1608418e01da65b3d91b83c (from https://pypi.python.org/simple/setuptools/), version: 6.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-6.1.tar.gz#md5=e9b44838c2e6c66f232327d7821ff6f8 (from https://pypi.python.org/simple/setuptools/), version: 6.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-6.1.zip#md5=adf1ef22c82bf6bf24f1257280b2281e (from https://pypi.python.org/simple/setuptools/), version: 6.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-7.0.tar.gz#md5=6245d6752e2ef803c365f560f7f2f940 (from https://pypi.python.org/simple/setuptools/), version: 7.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-7.0.zip#md5=5771b7ab257e70603e620b2313d1e971 (from https://pypi.python.org/simple/setuptools/), version: 7.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.1.tar.gz#md5=b0840be6ce3ac6838eb8902abc707d5f (from https://pypi.python.org/simple/setuptools/), version: 8.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.1.zip#md5=8c6353ea2adfff0a4baff1bd7a47e2f7 (from https://pypi.python.org/simple/setuptools/), version: 8.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.2.tar.gz#md5=038a848c431b5a19e6ec66bd5d039381 (from https://pypi.python.org/simple/setuptools/), version: 8.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.2.zip#md5=58abf9766d682fae7d3ebd8aa9d0049a (from https://pypi.python.org/simple/setuptools/), version: 8.0.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.3.tar.gz#md5=2a846c85c19fcb7360119883a9636eba (from https://pypi.python.org/simple/setuptools/), version: 8.0.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.3.zip#md5=79042845405115b591be389f41665433 (from https://pypi.python.org/simple/setuptools/), version: 8.0.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.4.tar.gz#md5=26cf2e8fef0c89bd3e5f62a6158023c3 (from https://pypi.python.org/simple/setuptools/), version: 8.0.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.4.zip#md5=f933ab36a751b9671490a203660fdb33 (from https://pypi.python.org/simple/setuptools/), version: 8.0.4
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.tar.gz#md5=94c8ca9c9f3911c8d7db96c2b7f08dea (from https://pypi.python.org/simple/setuptools/), version: 8.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.0.zip#md5=4116b9d22d127449efe50469b1f5ec59 (from https://pypi.python.org/simple/setuptools/), version: 8.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.1.tar.gz#md5=594e5e874c363888def6a09d60b138cb (from https://pypi.python.org/simple/setuptools/), version: 8.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.1.zip#md5=75b5779ebab72e8abfc952e935796638 (from https://pypi.python.org/simple/setuptools/), version: 8.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.2.1.tar.gz#md5=ff8d385241245978cc7c08f9b4bceec8 (from https://pypi.python.org/simple/setuptools/), version: 8.2.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.2.1.zip#md5=549d98b6911fc5df6d724f89a6d9e6e6 (from https://pypi.python.org/simple/setuptools/), version: 8.2.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.2.tar.gz#md5=631c3b2d0e6868d77fcf11d9de8fe7a7 (from https://pypi.python.org/simple/setuptools/), version: 8.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.2.zip#md5=91831e0008b1b2a984aa88aa0de309e4 (from https://pypi.python.org/simple/setuptools/), version: 8.2
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.3.tar.gz#md5=7699fdb0eb662c5fd49ddf3ac33b495e (from https://pypi.python.org/simple/setuptools/), version: 8.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-8.3.zip#md5=659faed09b2482c65e32d303a8103246 (from https://pypi.python.org/simple/setuptools/), version: 8.3
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-9.0.1.tar.gz#md5=5193200a55156de6408c8b654e54516a (from https://pypi.python.org/simple/setuptools/), version: 9.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-9.0.1.zip#md5=302b12294eace6e5da1904b2e67c3374 (from https://pypi.python.org/simple/setuptools/), version: 9.0.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-9.0.tar.gz#md5=380c51ff5569c2f69954cccc3f6107eb (from https://pypi.python.org/simple/setuptools/), version: 9.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-9.0.zip#md5=23605950712dd987688257316f8cd8c6 (from https://pypi.python.org/simple/setuptools/), version: 9.0
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-9.1.tar.gz#md5=0db0d6ab3911594cb83834cc087c0729 (from https://pypi.python.org/simple/setuptools/), version: 9.1
+    Found link https://pypi.python.org/packages/source/s/setuptools/setuptools-9.1.zip#md5=d714b480ab6c6e756397c7cd9c1afa30 (from https://pypi.python.org/simple/setuptools/), version: 9.1
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6b1.zip#md5=000447ea5cf11ebaecc4f6ce9812a561 (from https://pypi.python.org/simple/setuptools/), version 0.6b1 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6b2.zip#md5=1fb3a6936dab5b1780f4fa81ad06af9d (from https://pypi.python.org/simple/setuptools/), version 0.6b2 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6b3.zip#md5=d199ec0b344db6d2f0ee3ff1eb38d0e0 (from https://pypi.python.org/simple/setuptools/), version 0.6b3 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6b4.zip#md5=fd78ec3c84210d350ab8b05fad288983 (from https://pypi.python.org/simple/setuptools/), version 0.6b4 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c1.zip#md5=9e5e38dcce7902b892110625d18108c6 (from https://pypi.python.org/simple/setuptools/), version 0.6c1 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c10.tar.gz#md5=30f822f19b02c3082cb1ba1d69be35dd (from https://pypi.python.org/simple/setuptools/), version 0.6c10 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c10.zip#md5=f18d008b30f719a6b6a525fa93150762 (from https://pypi.python.org/simple/setuptools/), version 0.6c10 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c11.tar.gz#md5=7df2a529a074f613b509fb44feefe74e (from https://pypi.python.org/simple/setuptools/), version 0.6c11 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c11.zip#md5=b2e133838129f1609af5ba091a36be7f (from https://pypi.python.org/simple/setuptools/), version 0.6c11 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c2.zip#md5=b0729008542f44d07c510d880ba582aa (from https://pypi.python.org/simple/setuptools/), version 0.6c2 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c3.tar.gz#md5=76cb98b779d356c64323125490f88d17 (from https://pypi.python.org/simple/setuptools/), version 0.6c3 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c3.zip#md5=e579f9c0c8658c25f1bc52ddbb080e59 (from https://pypi.python.org/simple/setuptools/), version 0.6c3 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c4.tar.gz#md5=2afe4966e8bde3f104542539de9c3165 (from https://pypi.python.org/simple/setuptools/), version 0.6c4 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c4.zip#md5=7df4a5388a3ba8224963de82828c108c (from https://pypi.python.org/simple/setuptools/), version 0.6c4 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c5.tar.gz#md5=c43562970b700ab779d5328ec170f659 (from https://pypi.python.org/simple/setuptools/), version 0.6c5 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c5.zip#md5=2e3c95d0ad8fc635706aa8ab4bf112ab (from https://pypi.python.org/simple/setuptools/), version 0.6c5 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c6.tar.gz#md5=e3d56d4d19776042607cbbecae823c8b (from https://pypi.python.org/simple/setuptools/), version 0.6c6 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c6.zip#md5=a72b54fd9f7d30fec2474321faf888b1 (from https://pypi.python.org/simple/setuptools/), version 0.6c6 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c7.tar.gz#md5=dedbf6a4f71cd6deaf13ee885054f16b (from https://pypi.python.org/simple/setuptools/), version 0.6c7 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c7.zip#md5=b770f540e80f9140ae622c69b5bbfeb8 (from https://pypi.python.org/simple/setuptools/), version 0.6c7 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c8.tar.gz#md5=0e9bbe1466f3ee29588cc09d3211a010 (from https://pypi.python.org/simple/setuptools/), version 0.6c8 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c8.zip#md5=bac7c08f25548f6fce7a52b2bd96a28b (from https://pypi.python.org/simple/setuptools/), version 0.6c8 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c9.tar.gz#md5=3864c01d9c719c8924c455714492295e (from https://pypi.python.org/simple/setuptools/), version 0.6c9 doesn't match >=0.7
+  Ignoring link https://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c9.zip#md5=2b22ee3c445527df703665b33dcf766d (from https://pypi.python.org/simple/setuptools/), version 0.6c9 doesn't match >=0.7
+  Using version 19.6 (newest of versions: 19.6, 19.6, 19.5, 19.5, 19.4.1, 19.4.1, 19.4, 19.4, 19.3, 19.3, 19.2, 19.2, 19.1.1, 19.1.1, 19.1, 19.1, 19.0, 19.0, 18.8.1, 18.8.1, 18.8, 18.8, 18.7.1, 18.7.1, 18.7, 18.7, 18.6.1, 18.6.1, 18.6, 18.6, 18.5, 18.5, 18.4, 18.4, 18.3.2, 18.3.2, 18.3.1, 18.3.1, 18.3, 18.3, 18.2, 18.2, 18.1, 18.1, 18.0.1, 18.0.1, 18.0, 18.0, 17.1.1, 17.1.1, 17.1, 17.1, 17.0, 17.0, 16.0, 16.0, 15.2, 15.2, 15.1, 15.1, 15.0, 15.0, 14.3.1, 14.3.1, 14.3, 14.3, 14.2, 14.2, 14.1.1, 14.1.1, 14.1, 14.1, 14.0, 14.0, 13.0.2, 13.0.2, 13.0.1, 13.0.1, 12.4, 12.4, 12.3, 12.3, 12.2, 12.2, 12.1, 12.1, 12.0.5, 12.0.5, 12.0.4, 12.0.4, 12.0.3, 12.0.3, 12.0.2, 12.0.2, 12.0.1, 12.0.1, 12.0, 12.0, 11.3.1, 11.3.1, 11.3, 11.3, 11.2, 11.2, 11.1, 11.1, 11.0, 11.0, 10.2.1, 10.2.1, 10.2, 10.2, 10.1, 10.1, 10.0.1, 10.0.1, 10.0, 10.0, 9.1, 9.1, 9.0.1, 9.0.1, 9.0, 9.0, 8.3, 8.3, 8.2.1, 8.2.1, 8.2, 8.2, 8.1, 8.1, 8.0.4, 8.0.4, 8.0.3, 8.0.3, 8.0.2, 8.0.2, 8.0.1, 8.0.1, 8.0, 8.0, 7.0, 7.0, 6.1, 6.1, 6.0.2, 6.0.2, 6.0.1, 6.0.1, 5.8, 5.8, 5.7, 5.7, 5.6, 5.6, 5.5.1, 5.5.1, 5.5, 5.5, 5.4.2, 5.4.2, 5.4.1, 5.4.1, 5.4, 5.4, 5.3, 5.3, 5.2, 5.2, 5.1, 5.1, 5.0.2, 5.0.2, 5.0.1, 5.0.1, 5.0, 5.0, 4.0.1, 4.0.1, 4.0, 4.0, 3.8.1, 3.8.1, 3.8, 3.8, 3.7.1, 3.7.1, 3.7, 3.7, 3.6, 3.6, 3.5.2, 3.5.2, 3.5.1, 3.5.1, 3.5, 3.5, 3.4.4, 3.4.4, 3.4.3, 3.4.3, 3.4.2, 3.4.2, 3.4.1, 3.4.1, 3.4, 3.4, 3.3, 3.3, 3.2, 3.2, 3.1, 3.1, 3.0.2, 3.0.2, 3.0.1, 3.0.1, 3.0, 3.0, 2.2, 2.2, 2.1.2, 2.1.2, 2.1.1, 2.1.1, 2.1, 2.1, 2.0.2, 2.0.2, 2.0.1, 2.0.1, 2.0, 2.0, 1.4.2, 1.4.2, 1.4.1, 1.4.1, 1.4, 1.4, 1.3.2, 1.3.2, 1.3.1, 1.3.1, 1.3, 1.3, 1.2, 1.2, 1.1.7, 1.1.7, 1.1.6, 1.1.6, 1.1.5, 1.1.5, 1.1.4, 1.1.4, 1.1.3, 1.1.3, 1.1.2, 1.1.2, 1.1.1, 1.1.1, 1.1, 1.1, 1.0, 1.0, 0.9.8, 0.9.8, 0.9.7, 0.9.7, 0.9.6, 0.9.6, 0.9.5, 0.9.5, 0.9.4, 0.9.4, 0.9.3, 0.9.3, 0.9.2, 0.9.2, 0.9.1, 0.9.1, 0.9, 0.9, 0.8, 0.8, 0.7.8, 0.7.8, 0.7.7, 0.7.7, 0.7.6, 0.7.6, 0.7.5, 0.7.5, 0.7.4, 0.7.4, 0.7.3, 0.7.3, 0.7.2, 0.7.2)
+  Downloading from URL https://pypi.python.org/packages/source/s/setuptools/setuptools-19.6.tar.gz#md5=c607dd118eae682c44ed146367a17e26 (from https://pypi.python.org/simple/setuptools/)
+Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 126, in main
+    self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 223, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 955, in prepare_files
+    self.unpack_url(url, location, self.is_download)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1072, in unpack_url
+    return unpack_http_url(link, location, self.download_cache, only_download)
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 441, in unpack_http_url
+    download_hash = _download_url(resp, link, temp_location)
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 366, in _download_url
+    chunk = resp.read(4096)
+  File "/usr/lib/python2.7/socket.py", line 380, in read
+    data = self._sock.recv(left)
+  File "/usr/lib/python2.7/httplib.py", line 569, in read
+    s = self.fp.read(amt)
+  File "/usr/lib/python2.7/socket.py", line 380, in read
+    data = self._sock.recv(left)
+  File "/usr/lib/python2.7/ssl.py", line 241, in recv
+    return self.read(buflen)
+  File "/usr/lib/python2.7/ssl.py", line 160, in read
+    return self._sslobj.read(len)
+KeyboardInterrupt
