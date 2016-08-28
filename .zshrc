@@ -49,7 +49,7 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git rake ruby thefuck emoji python)
+plugins=(git rake ruby thefuck emoji python rails)
 
 
 # User configuration
@@ -58,6 +58,8 @@ export PATH="/home/www/.rvm/gems/ruby-2.0.0-p247/bin:/home/www/.rvm/gems/ruby-2.
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
+
+export TERM="screen-256color"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
